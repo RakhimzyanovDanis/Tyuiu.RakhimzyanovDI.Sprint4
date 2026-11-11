@@ -29,7 +29,7 @@ namespace Tyuiu.RakhimzyanovDI.Sprint4.Task1.V21
             Console.WriteLine();
             Console.WriteLine();
 
-
+             
             int res = ds.Calculate(numsArry);
 
             Console.WriteLine(res);
