@@ -1,4 +1,4 @@
-﻿    using Tyuiu.RakhimzyanovDI.Sprint4.Task0.V25.Lib;
+﻿using Tyuiu.RakhimzyanovDI.Sprint4.Task0.V25.Lib;
 
 namespace Tyuiu.RakhimzyanovDI.Sprint4.Task0.V25
 {
