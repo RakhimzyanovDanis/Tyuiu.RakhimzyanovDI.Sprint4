@@ -18,7 +18,7 @@ namespace Tyuiu.RakhimzyanovDI.Sprint4.Task0.V25
 
             int sumResult = ds.GetSumEvenArrEl(numsArray);
             Console.WriteLine("Сумма четных элементов:"); 
-            Console.WriteLine(sumResult);
+            Console.WriteLine(sumResult); 
 
         }
     }
